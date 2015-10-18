@@ -1,0 +1,7 @@
+<tr>             
+	<td><a href="{{URL_AMAZON}}" rel="nofollow" target="_blank"><p>{{TEXT_PRODUCT_DESCRIPTION}}</p><img src="{{URL_PRODUCT_IMG}}" /></a></td>
+	<td>{{TEXT_MATERIAL}}</td>
+	<td>{{TEXT_SOLE}}</td>
+	<td>{{TEXT_SEX}}</td>
+	<td><img src="{{URL_RATING_IMAGE}}" alt="" width="79" height="14" class="aligncenter size-full wp-image-220" /><span style="display:none;">{{TEXT_RATING}}</span></td>
+</tr>

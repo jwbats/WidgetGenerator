@@ -1,0 +1,16 @@
+<table>
+	<thead>
+		<tr>
+			<th>Shoe</th>
+			<th>Material</th>
+			<th>Sole</th>
+			<th>Men/Women</th>
+			<th>Rating</th>
+		</tr>
+	</thead>
+	<tbody>
+
+{{REPEATER_TEMPLATE}}
+
+	</tbody>
+</table>
