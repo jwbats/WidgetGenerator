@@ -1,22 +1,22 @@
 [
-    {
-        "URL_AMAZON"               : "http://www.amazon.com/gp/product/B005UJNPU8/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005UJNPU8&amp;linkCode=as2&amp;tag=somesite.com-20",
-        "URL_PRODUCT_IMG"          : "http://somesite.com/wp-content/uploads/2015/10/prodimg.png",
-        "URL_RATING_IMAGE"         : "http://somesite.com/wp-content/uploads/2015/10/rating_45.png",
-        "TEXT_PRODUCT_DESCRIPTION" : "990V3 Running Shoe",
-        "TEXT_MATERIAL"            : "Leather/mesh",
-        "TEXT_SOLE"                : "Synthetic",
-        "TEXT_SEX"                 : "Women",
-        "TEXT_RATING"              : "4.5"
-    },
 	{
-        "URL_AMAZON"               : "http://www.amazon.com/gp/product/B005UJNPU8/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005UJNPU8&amp;linkCode=as2&amp;tag=somesite.com-20",
-        "URL_PRODUCT_IMG"          : "http://somesite.com/wp-content/uploads/2015/10/prodimg.png",
-        "URL_RATING_IMAGE"         : "http://somesite.com/wp-content/uploads/2015/10/rating_45.png",
-        "TEXT_PRODUCT_DESCRIPTION" : "990V3 Running Shoe",
-        "TEXT_MATERIAL"            : "Leather/mesh",
-        "TEXT_SOLE"                : "Synthetic",
-        "TEXT_SEX"                 : "Women",
-        "TEXT_RATING"              : "4.5"
-    }
+		"URL_AMAZON"               : "http://www.amazon.com/gp/product/B005UJNPU8/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005UJNPU8&amp;linkCode=as2&amp;tag=somesite.com-20",
+		"URL_PRODUCT_IMG"          : "http://somesite.com/wp-content/uploads/2015/10/prodimg.png",
+		"URL_RATING_IMAGE"         : "http://somesite.com/wp-content/uploads/2015/10/rating_45.png",
+		"TEXT_PRODUCT_DESCRIPTION" : "990V3 Running Shoe",
+		"TEXT_MATERIAL"            : "Leather/mesh",
+		"TEXT_SOLE"                : "Synthetic",
+		"TEXT_SEX"                 : "Women",
+		"TEXT_RATING"              : "4.5"
+	},
+	{
+		"URL_AMAZON"               : "http://www.amazon.com/gp/product/B005UJNPU8/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005UJNPU8&amp;linkCode=as2&amp;tag=somesite.com-20",
+		"URL_PRODUCT_IMG"          : "http://somesite.com/wp-content/uploads/2015/10/prodimg.png",
+		"URL_RATING_IMAGE"         : "http://somesite.com/wp-content/uploads/2015/10/rating_45.png",
+		"TEXT_PRODUCT_DESCRIPTION" : "990V3 Running Shoe",
+		"TEXT_MATERIAL"            : "Leather/mesh",
+		"TEXT_SOLE"                : "Synthetic",
+		"TEXT_SEX"                 : "Women",
+		"TEXT_RATING"              : "4.5"
+	}
 ]
